@@ -1,2 +1,2 @@
-# anjan111reddy-gmail.com
-Wordpress-DataGrid-Plugin
+# Wordpress Data Grid
+working on this plugin now..will upload soon
